@@ -12,7 +12,7 @@ A beautiful syntax theme for Atom, more information in [Plane project](https://g
 </p>
 
 ## Install
-1. Download in `~/.atom/packages/plane-atom-ui`
+1. Download in `~/.atom/packages/plane-atom-ui` - and (window:reload)
 2. Open: Settings -> Themes -> UI theme  and choose: Plane Atom
 3. I recommending install too, install [plane-atom-syntax](https://github.com/wfpaisa/plane-atom-syntax)
 
